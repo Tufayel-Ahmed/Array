@@ -1,0 +1,15 @@
+G:\Array\SquaresofaSorted Array\bin\Debug\net6.0\SquaresofaSorted Array.exe
+G:\Array\SquaresofaSorted Array\bin\Debug\net6.0\SquaresofaSorted Array.deps.json
+G:\Array\SquaresofaSorted Array\bin\Debug\net6.0\SquaresofaSorted Array.runtimeconfig.json
+G:\Array\SquaresofaSorted Array\bin\Debug\net6.0\SquaresofaSorted Array.dll
+G:\Array\SquaresofaSorted Array\bin\Debug\net6.0\SquaresofaSorted Array.pdb
+G:\Array\SquaresofaSorted Array\obj\Debug\net6.0\SquaresofaSorted Array.csproj.AssemblyReference.cache
+G:\Array\SquaresofaSorted Array\obj\Debug\net6.0\SquaresofaSorted Array.GeneratedMSBuildEditorConfig.editorconfig
+G:\Array\SquaresofaSorted Array\obj\Debug\net6.0\SquaresofaSorted Array.AssemblyInfoInputs.cache
+G:\Array\SquaresofaSorted Array\obj\Debug\net6.0\SquaresofaSorted Array.AssemblyInfo.cs
+G:\Array\SquaresofaSorted Array\obj\Debug\net6.0\SquaresofaSorted Array.csproj.CoreCompileInputs.cache
+G:\Array\SquaresofaSorted Array\obj\Debug\net6.0\SquaresofaSorted Array.dll
+G:\Array\SquaresofaSorted Array\obj\Debug\net6.0\refint\SquaresofaSorted Array.dll
+G:\Array\SquaresofaSorted Array\obj\Debug\net6.0\SquaresofaSorted Array.pdb
+G:\Array\SquaresofaSorted Array\obj\Debug\net6.0\SquaresofaSorted Array.genruntimeconfig.cache
+G:\Array\SquaresofaSorted Array\obj\Debug\net6.0\ref\SquaresofaSorted Array.dll
