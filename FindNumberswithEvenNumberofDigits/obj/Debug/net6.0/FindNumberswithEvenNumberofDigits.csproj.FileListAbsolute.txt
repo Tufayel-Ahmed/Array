@@ -1,0 +1,15 @@
+G:\Array\FindNumberswithEvenNumberofDigits\bin\Debug\net6.0\FindNumberswithEvenNumberofDigits.exe
+G:\Array\FindNumberswithEvenNumberofDigits\bin\Debug\net6.0\FindNumberswithEvenNumberofDigits.deps.json
+G:\Array\FindNumberswithEvenNumberofDigits\bin\Debug\net6.0\FindNumberswithEvenNumberofDigits.runtimeconfig.json
+G:\Array\FindNumberswithEvenNumberofDigits\bin\Debug\net6.0\FindNumberswithEvenNumberofDigits.dll
+G:\Array\FindNumberswithEvenNumberofDigits\bin\Debug\net6.0\FindNumberswithEvenNumberofDigits.pdb
+G:\Array\FindNumberswithEvenNumberofDigits\obj\Debug\net6.0\FindNumberswithEvenNumberofDigits.csproj.AssemblyReference.cache
+G:\Array\FindNumberswithEvenNumberofDigits\obj\Debug\net6.0\FindNumberswithEvenNumberofDigits.GeneratedMSBuildEditorConfig.editorconfig
+G:\Array\FindNumberswithEvenNumberofDigits\obj\Debug\net6.0\FindNumberswithEvenNumberofDigits.AssemblyInfoInputs.cache
+G:\Array\FindNumberswithEvenNumberofDigits\obj\Debug\net6.0\FindNumberswithEvenNumberofDigits.AssemblyInfo.cs
+G:\Array\FindNumberswithEvenNumberofDigits\obj\Debug\net6.0\FindNumberswithEvenNumberofDigits.csproj.CoreCompileInputs.cache
+G:\Array\FindNumberswithEvenNumberofDigits\obj\Debug\net6.0\FindNumberswithEvenNumberofDigits.dll
+G:\Array\FindNumberswithEvenNumberofDigits\obj\Debug\net6.0\refint\FindNumberswithEvenNumberofDigits.dll
+G:\Array\FindNumberswithEvenNumberofDigits\obj\Debug\net6.0\FindNumberswithEvenNumberofDigits.pdb
+G:\Array\FindNumberswithEvenNumberofDigits\obj\Debug\net6.0\FindNumberswithEvenNumberofDigits.genruntimeconfig.cache
+G:\Array\FindNumberswithEvenNumberofDigits\obj\Debug\net6.0\ref\FindNumberswithEvenNumberofDigits.dll
