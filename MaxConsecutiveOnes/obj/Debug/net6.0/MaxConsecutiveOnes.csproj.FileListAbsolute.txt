@@ -1,0 +1,15 @@
+G:\Array\MaxConsecutiveOnes\bin\Debug\net6.0\MaxConsecutiveOnes.exe
+G:\Array\MaxConsecutiveOnes\bin\Debug\net6.0\MaxConsecutiveOnes.deps.json
+G:\Array\MaxConsecutiveOnes\bin\Debug\net6.0\MaxConsecutiveOnes.runtimeconfig.json
+G:\Array\MaxConsecutiveOnes\bin\Debug\net6.0\MaxConsecutiveOnes.dll
+G:\Array\MaxConsecutiveOnes\bin\Debug\net6.0\MaxConsecutiveOnes.pdb
+G:\Array\MaxConsecutiveOnes\obj\Debug\net6.0\MaxConsecutiveOnes.csproj.AssemblyReference.cache
+G:\Array\MaxConsecutiveOnes\obj\Debug\net6.0\MaxConsecutiveOnes.GeneratedMSBuildEditorConfig.editorconfig
+G:\Array\MaxConsecutiveOnes\obj\Debug\net6.0\MaxConsecutiveOnes.AssemblyInfoInputs.cache
+G:\Array\MaxConsecutiveOnes\obj\Debug\net6.0\MaxConsecutiveOnes.AssemblyInfo.cs
+G:\Array\MaxConsecutiveOnes\obj\Debug\net6.0\MaxConsecutiveOnes.csproj.CoreCompileInputs.cache
+G:\Array\MaxConsecutiveOnes\obj\Debug\net6.0\MaxConsecutiveOnes.dll
+G:\Array\MaxConsecutiveOnes\obj\Debug\net6.0\refint\MaxConsecutiveOnes.dll
+G:\Array\MaxConsecutiveOnes\obj\Debug\net6.0\MaxConsecutiveOnes.pdb
+G:\Array\MaxConsecutiveOnes\obj\Debug\net6.0\MaxConsecutiveOnes.genruntimeconfig.cache
+G:\Array\MaxConsecutiveOnes\obj\Debug\net6.0\ref\MaxConsecutiveOnes.dll
