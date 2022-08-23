@@ -1,0 +1,15 @@
+G:\Array\RemoveElement\bin\Debug\net6.0\RemoveElement.exe
+G:\Array\RemoveElement\bin\Debug\net6.0\RemoveElement.deps.json
+G:\Array\RemoveElement\bin\Debug\net6.0\RemoveElement.runtimeconfig.json
+G:\Array\RemoveElement\bin\Debug\net6.0\RemoveElement.dll
+G:\Array\RemoveElement\bin\Debug\net6.0\RemoveElement.pdb
+G:\Array\RemoveElement\obj\Debug\net6.0\RemoveElement.csproj.AssemblyReference.cache
+G:\Array\RemoveElement\obj\Debug\net6.0\RemoveElement.GeneratedMSBuildEditorConfig.editorconfig
+G:\Array\RemoveElement\obj\Debug\net6.0\RemoveElement.AssemblyInfoInputs.cache
+G:\Array\RemoveElement\obj\Debug\net6.0\RemoveElement.AssemblyInfo.cs
+G:\Array\RemoveElement\obj\Debug\net6.0\RemoveElement.csproj.CoreCompileInputs.cache
+G:\Array\RemoveElement\obj\Debug\net6.0\RemoveElement.dll
+G:\Array\RemoveElement\obj\Debug\net6.0\refint\RemoveElement.dll
+G:\Array\RemoveElement\obj\Debug\net6.0\RemoveElement.pdb
+G:\Array\RemoveElement\obj\Debug\net6.0\RemoveElement.genruntimeconfig.cache
+G:\Array\RemoveElement\obj\Debug\net6.0\ref\RemoveElement.dll
