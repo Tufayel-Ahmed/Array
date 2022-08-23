@@ -1,0 +1,15 @@
+G:\Array\CheckIfNAndItsDoubleExist\bin\Debug\net6.0\CheckIfNAndItsDoubleExist.exe
+G:\Array\CheckIfNAndItsDoubleExist\bin\Debug\net6.0\CheckIfNAndItsDoubleExist.deps.json
+G:\Array\CheckIfNAndItsDoubleExist\bin\Debug\net6.0\CheckIfNAndItsDoubleExist.runtimeconfig.json
+G:\Array\CheckIfNAndItsDoubleExist\bin\Debug\net6.0\CheckIfNAndItsDoubleExist.dll
+G:\Array\CheckIfNAndItsDoubleExist\bin\Debug\net6.0\CheckIfNAndItsDoubleExist.pdb
+G:\Array\CheckIfNAndItsDoubleExist\obj\Debug\net6.0\CheckIfNAndItsDoubleExist.csproj.AssemblyReference.cache
+G:\Array\CheckIfNAndItsDoubleExist\obj\Debug\net6.0\CheckIfNAndItsDoubleExist.GeneratedMSBuildEditorConfig.editorconfig
+G:\Array\CheckIfNAndItsDoubleExist\obj\Debug\net6.0\CheckIfNAndItsDoubleExist.AssemblyInfoInputs.cache
+G:\Array\CheckIfNAndItsDoubleExist\obj\Debug\net6.0\CheckIfNAndItsDoubleExist.AssemblyInfo.cs
+G:\Array\CheckIfNAndItsDoubleExist\obj\Debug\net6.0\CheckIfNAndItsDoubleExist.csproj.CoreCompileInputs.cache
+G:\Array\CheckIfNAndItsDoubleExist\obj\Debug\net6.0\CheckIfNAndItsDoubleExist.dll
+G:\Array\CheckIfNAndItsDoubleExist\obj\Debug\net6.0\refint\CheckIfNAndItsDoubleExist.dll
+G:\Array\CheckIfNAndItsDoubleExist\obj\Debug\net6.0\CheckIfNAndItsDoubleExist.pdb
+G:\Array\CheckIfNAndItsDoubleExist\obj\Debug\net6.0\CheckIfNAndItsDoubleExist.genruntimeconfig.cache
+G:\Array\CheckIfNAndItsDoubleExist\obj\Debug\net6.0\ref\CheckIfNAndItsDoubleExist.dll

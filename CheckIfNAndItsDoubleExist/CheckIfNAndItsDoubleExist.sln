@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32804.467
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CheckIfNAndItsDoubleExist", "CheckIfNAndItsDoubleExist.csproj", "{9F7B861E-7B59-4DCC-A6F8-F9978D82DADE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9F7B861E-7B59-4DCC-A6F8-F9978D82DADE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F7B861E-7B59-4DCC-A6F8-F9978D82DADE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F7B861E-7B59-4DCC-A6F8-F9978D82DADE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F7B861E-7B59-4DCC-A6F8-F9978D82DADE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7269E8E2-BC53-47BD-B909-A2CC11091932}
+	EndGlobalSection
+EndGlobal
