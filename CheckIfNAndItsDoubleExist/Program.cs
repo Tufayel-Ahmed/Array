@@ -36,4 +36,6 @@ namespace CheckIfNAndItsDoubleExist
             return false;
         }
     }
+
+    
 }

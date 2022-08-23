@@ -1,0 +1,15 @@
+G:\Array\ValidMountainArray\bin\Debug\net6.0\ValidMountainArray.exe
+G:\Array\ValidMountainArray\bin\Debug\net6.0\ValidMountainArray.deps.json
+G:\Array\ValidMountainArray\bin\Debug\net6.0\ValidMountainArray.runtimeconfig.json
+G:\Array\ValidMountainArray\bin\Debug\net6.0\ValidMountainArray.dll
+G:\Array\ValidMountainArray\bin\Debug\net6.0\ValidMountainArray.pdb
+G:\Array\ValidMountainArray\obj\Debug\net6.0\ValidMountainArray.csproj.AssemblyReference.cache
+G:\Array\ValidMountainArray\obj\Debug\net6.0\ValidMountainArray.GeneratedMSBuildEditorConfig.editorconfig
+G:\Array\ValidMountainArray\obj\Debug\net6.0\ValidMountainArray.AssemblyInfoInputs.cache
+G:\Array\ValidMountainArray\obj\Debug\net6.0\ValidMountainArray.AssemblyInfo.cs
+G:\Array\ValidMountainArray\obj\Debug\net6.0\ValidMountainArray.csproj.CoreCompileInputs.cache
+G:\Array\ValidMountainArray\obj\Debug\net6.0\ValidMountainArray.dll
+G:\Array\ValidMountainArray\obj\Debug\net6.0\refint\ValidMountainArray.dll
+G:\Array\ValidMountainArray\obj\Debug\net6.0\ValidMountainArray.pdb
+G:\Array\ValidMountainArray\obj\Debug\net6.0\ValidMountainArray.genruntimeconfig.cache
+G:\Array\ValidMountainArray\obj\Debug\net6.0\ref\ValidMountainArray.dll
