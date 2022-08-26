@@ -1,0 +1,15 @@
+G:\Array\ThirdMaximumNumber\ThirdMaximumNumber\bin\Debug\net6.0\ThirdMaximumNumber.exe
+G:\Array\ThirdMaximumNumber\ThirdMaximumNumber\bin\Debug\net6.0\ThirdMaximumNumber.deps.json
+G:\Array\ThirdMaximumNumber\ThirdMaximumNumber\bin\Debug\net6.0\ThirdMaximumNumber.runtimeconfig.json
+G:\Array\ThirdMaximumNumber\ThirdMaximumNumber\bin\Debug\net6.0\ThirdMaximumNumber.dll
+G:\Array\ThirdMaximumNumber\ThirdMaximumNumber\bin\Debug\net6.0\ThirdMaximumNumber.pdb
+G:\Array\ThirdMaximumNumber\ThirdMaximumNumber\obj\Debug\net6.0\ThirdMaximumNumber.csproj.AssemblyReference.cache
+G:\Array\ThirdMaximumNumber\ThirdMaximumNumber\obj\Debug\net6.0\ThirdMaximumNumber.GeneratedMSBuildEditorConfig.editorconfig
+G:\Array\ThirdMaximumNumber\ThirdMaximumNumber\obj\Debug\net6.0\ThirdMaximumNumber.AssemblyInfoInputs.cache
+G:\Array\ThirdMaximumNumber\ThirdMaximumNumber\obj\Debug\net6.0\ThirdMaximumNumber.AssemblyInfo.cs
+G:\Array\ThirdMaximumNumber\ThirdMaximumNumber\obj\Debug\net6.0\ThirdMaximumNumber.csproj.CoreCompileInputs.cache
+G:\Array\ThirdMaximumNumber\ThirdMaximumNumber\obj\Debug\net6.0\ThirdMaximumNumber.dll
+G:\Array\ThirdMaximumNumber\ThirdMaximumNumber\obj\Debug\net6.0\refint\ThirdMaximumNumber.dll
+G:\Array\ThirdMaximumNumber\ThirdMaximumNumber\obj\Debug\net6.0\ThirdMaximumNumber.pdb
+G:\Array\ThirdMaximumNumber\ThirdMaximumNumber\obj\Debug\net6.0\ThirdMaximumNumber.genruntimeconfig.cache
+G:\Array\ThirdMaximumNumber\ThirdMaximumNumber\obj\Debug\net6.0\ref\ThirdMaximumNumber.dll
